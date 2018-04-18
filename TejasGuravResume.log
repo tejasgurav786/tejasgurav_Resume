@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  18 APR 2018 23:34
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  18 APR 2018 23:41
 entering extended mode
 **TejasGuravResume.tex
 (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.tex
@@ -180,26 +180,33 @@ Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-[1
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+ [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/tejas/Downloads/
-tejasphoto.jpg>]
-(C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.aux) ) 
+tejasphoto.jpg>] (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravRe
+sume.aux) ) 
 Here is how much of TeX's memory you used:
- 1510 strings out of 494019
- 20851 string characters out of 3143882
- 82474 words of memory out of 3000000
- 4831 multiletter control sequences out of 15000+200000
+ 1527 strings out of 494019
+ 21151 string characters out of 3143882
+ 83474 words of memory out of 3000000
+ 4845 multiletter control sequences out of 15000+200000
  4554 words of font info for 17 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,24p,292b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Pr
-ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on TejasGuravResume.pdf (1 page, 92235 bytes).
+ 25i,6n,24p,292b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+bx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
+b>
+Output written on TejasGuravResume.pdf (1 page, 101485 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
+ 23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
