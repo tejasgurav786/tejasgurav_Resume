@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 00:01
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  19 APR 2018 00:13
 entering extended mode
 **TejasGuravResume.tex
 (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.tex
@@ -92,18 +92,18 @@ File: pdftex.def 2010/09/14 v0.05b Graphics/color for pdfTeX
 Package: wrapfig 2003/01/31  v 3.6
 )
 (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -157,35 +157,35 @@ File: C:/Users/tejas/Downloads/tejasphoto.jpg Graphic file (type jpg)
 
 <use C:/Users/tejas/Downloads/tejasphoto.jpg>
 
-Package wrapfig Warning: Stationary wrapfigure forced to float on input line 15
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 16
 .
 
 
-Overfull \hbox (181.8411pt too wide) in paragraph at lines 18--19
+Overfull \hbox (181.8411pt too wide) in paragraph at lines 19--20
 [][][] 
  []
 
 
-Overfull \hbox (166.8411pt too wide) in paragraph at lines 27--29
+Overfull \hbox (166.8411pt too wide) in paragraph at lines 28--30
 []
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 36.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 35.
+(Font)              <5> on input line 36.
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ˜ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 64.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 65.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 65.
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/tejas/Downloads/
@@ -210,13 +210,13 @@ Here is how much of TeX's memory you used:
  4845 multiletter control sequences out of 15000+200000
  4554 words of font info for 17 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,24p,292b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,6n,24p,292b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
 <
 C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
 rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on TejasGuravResume.pdf (2 pages, 103416 bytes).
+Output written on TejasGuravResume.pdf (2 pages, 104134 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
