@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  18 APR 2018 23:48
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  18 APR 2018 23:57
 entering extended mode
 **TejasGuravResume.tex
 (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.tex
@@ -189,8 +189,8 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
  [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/tejas/Downloads/
-tejasphoto.jpg>] (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravRe
-sume.aux) ) 
+tejasphoto.jpg>] [2] (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGur
+avResume.aux) ) 
 Here is how much of TeX's memory you used:
  1527 strings out of 494019
  21151 string characters out of 3143882
@@ -198,15 +198,15 @@ Here is how much of TeX's memory you used:
  4845 multiletter control sequences out of 15000+200000
  4554 words of font info for 17 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,24p,292b,217s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-bx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx
-12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.
-pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b>
-Output written on TejasGuravResume.pdf (1 page, 102123 bytes).
+ 25i,6n,24p,292b,239s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb>
+Output written on TejasGuravResume.pdf (2 pages, 103118 bytes).
 PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
