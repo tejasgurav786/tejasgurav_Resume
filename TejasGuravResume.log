@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  18 APR 2018 22:41
+This is pdfTeX, Version 3.1415926-1.40.11 (MiKTeX 2.9) (preloaded format=pdflatex 2018.4.17)  18 APR 2018 23:19
 entering extended mode
 **TejasGuravResume.tex
 (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.tex
@@ -170,24 +170,28 @@ Overfull \hbox (166.8411pt too wide) in paragraph at lines 27--29
 []
  []
 
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 35.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 35.
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/tejas/Downloads/
 tejasphoto.jpg>]
 (C:\Users\tejas\Documents\LATEX\tejasgurav_Resume\TejasGuravResume.aux) ) 
 Here is how much of TeX's memory you used:
- 1508 strings out of 494019
- 20823 string characters out of 3143882
- 77474 words of memory out of 3000000
- 4829 multiletter control sequences out of 15000+200000
+ 1510 strings out of 494019
+ 20851 string characters out of 3143882
+ 80474 words of memory out of 3000000
+ 4831 multiletter control sequences out of 15000+200000
  4554 words of font info for 17 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 25i,6n,24p,292b,177s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 25i,6n,24p,292b,215s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Pr
 ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Prog
 ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Progra
 m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on TejasGuravResume.pdf (1 page, 84483 bytes).
+Output written on TejasGuravResume.pdf (1 page, 89883 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
